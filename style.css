@@ -82,19 +82,22 @@ a.phone-style{
 padding: 5px;
 }
 .table {
-	font-size:8pt;
+	min-width: 380px;
+	font-size: 80%;
 	width: 100%;
 	margin-bottom: 5px;
-	border: 1px solid #dddddd;
+	border: 1px solid #a1a1a1;
 	border-collapse: collapse; 
+	
 }
 .table th {
 	font-weight: bold;
+	text-align: center;
 	padding: 3px;
 	background: #efefef;
-	border: 1px solid #dddddd;
+	border: 1px solid #a1a1a1;
 }
 .table td {
-	border: 1px solid #dddddd;
+	border: 1px solid #a1a1a1;
 	padding: 3px;
 }
