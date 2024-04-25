@@ -34,7 +34,7 @@ div	{
 	width: 400px;
 }
 h3 {
-	padding: 1rem;
+	padding: 10px;
 }
 h4 {
 	color: #3158A2;
@@ -80,4 +80,21 @@ a.phone-style{
 
 .nav-link {
 padding: 5px;
+}
+.table {
+	font-size:8pt;
+	width: 100%;
+	margin-bottom: 5px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table th {
+	font-weight: bold;
+	padding: 3px;
+	background: #efefef;
+	border: 1px solid #dddddd;
+}
+.table td {
+	border: 1px solid #dddddd;
+	padding: 3px;
 }
